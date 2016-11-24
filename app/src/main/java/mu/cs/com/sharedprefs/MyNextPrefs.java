@@ -17,6 +17,8 @@ import android.widget.Toast;
 
 public class MyNextPrefs extends Activity implements View.OnClickListener {
 
+    //Some changes made as a test to MyNextPrefs for Github
+
     private String filename = "GamePreferences";
     private int score;
     SharedPreferences prefs;
