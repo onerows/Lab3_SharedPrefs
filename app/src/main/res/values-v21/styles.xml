@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        <!-- Main theme colors -->
+        <!--   your app branding color for the app bar -->
+        <!-- Main theme colors -->
+        <!--   your app branding color for the app bar -->
+        <item name="android:colorPrimary">#3e50b4</item>
+        <!--   darker variant for the status bar and contextual app bars -->
+        <item name="android:colorPrimaryDark">#303f9f</item>
+        <!--   theme UI controls like checkboxes and text fields -->
+        <item name="android:colorAccent">#ff3f80</item>
+        <item name="android:statusBarColor">@android:color/holo_blue_light</item>
+        <item name="android:actionMenuTextColor">#009922</item>
+    </style>
+</resources>
